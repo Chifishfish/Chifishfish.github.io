@@ -1,11 +1,7 @@
-console.log('%cCopyright © 2024 Chifishfish.net',
-    'background-color: #ff00ff; color: white; font-size: 24px; font-weight: bold; padding: 10px;'
+console.log('%cCopyright © 2024 Chifishfish.github.io',
+    'background-color: #5ad0dd; color: white; font-size: 24px; font-weight: bold; padding: 10px;'
 );
-console.log('%c   /\\_/\\', 'color: #8B4513; font-size: 20px;');
-console.log('%c  ( o.o )', 'color: #8B4513; font-size: 20px;');
-console.log(' %c  > ^ <', 'color: #8B4513; font-size: 20px;');
-console.log('  %c /  ~ \\', 'color: #8B4513; font-size: 20px;');
-console.log('  %c/______\\', 'color: #8B4513; font-size: 20px;');
+console.log('%c  >°))))彡', 'color: #2263a5; font-size: 60px;');
 
 document.addEventListener('contextmenu', function (event) {
     event.preventDefault();
